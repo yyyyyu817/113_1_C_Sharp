@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shu\\Desktop\\113_1_C_Sharp\\113-10-15\\A113221069\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C576B189-BBE2-4EBF-9AC1-C21AE2BA9C8C}|A113221069\\A113221069.csproj|c:\\users\\shu\\desktop\\113_1_c_sharp\\113-10-15\\a113221069\\a113221069\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C576B189-BBE2-4EBF-9AC1-C21AE2BA9C8C}|A113221069\\A113221069.csproj|solutionrelative:a113221069\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C576B189-BBE2-4EBF-9AC1-C21AE2BA9C8C}|A113221069\\A113221069.csproj|c:\\users\\shu\\desktop\\113_1_c_sharp\\113-10-15\\a113221069\\a113221069\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C576B189-BBE2-4EBF-9AC1-C21AE2BA9C8C}|A113221069\\A113221069.csproj|solutionrelative:a113221069\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\shu\\Desktop\\113_1_C_Sharp\\113-10-15\\A113221069\\A113221069\\Form1.cs",
+              "RelativeDocumentMoniker": "A113221069\\Form1.cs",
+              "ToolTip": "C:\\Users\\shu\\Desktop\\113_1_C_Sharp\\113-10-15\\A113221069\\A113221069\\Form1.cs",
+              "RelativeToolTip": "A113221069\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T08:22:00.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\shu\\Desktop\\113_1_C_Sharp\\113-10-15\\A113221069\\A113221069\\Form1.cs",
+              "RelativeDocumentMoniker": "A113221069\\Form1.cs",
+              "ToolTip": "C:\\Users\\shu\\Desktop\\113_1_C_Sharp\\113-10-15\\A113221069\\A113221069\\Form1.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "A113221069\\Form1.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T08:06:57.254Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
